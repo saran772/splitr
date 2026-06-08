@@ -17,7 +17,7 @@ import { STEPS, TESTIMONIALS } from "@/lib/landing";
 const SOCIAL_LINKS = {
   facebook: "https://www.facebook.com/splitrapp",       // TODO: replace with real page if different
   instagram: "https://www.instagram.com/splitrapp",     // TODO: replace with real page if different
-  github: "https://github.com/dhruvbajaj13/Splitr",     // repo link is correct
+  github: "https://github.com/saran772/splitr",     // repo link is correct
   x: "https://x.com/splitrapp"                          // TODO: replace with real page if different
 };
 

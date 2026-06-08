@@ -228,7 +228,7 @@ export default function AboutPage() {
             </motion.div>
             <motion.div whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.98 }}>
               <Button asChild size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600">
-                <Link href="https://github.com/dhruvbajaj13/Splitr" target="_blank">
+                <Link href="https://github.com/saran772/splitr" target="_blank">
                   <Github className="mr-2 h-4 w-4" />
                   View on GitHub
                 </Link>
@@ -264,7 +264,7 @@ export default function AboutPage() {
             <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100 mb-3">Follow Us</h3>
             <div className="flex space-x-4 text-xl">
               <a
-                href="https://www.linkedin.com/in/dhruvbajaj13/"
+                href="https://www.linkedin.com/in/saranpreet-singh-057a55291/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-400"
@@ -276,7 +276,7 @@ export default function AboutPage() {
                 />
               </a>
               <a
-                href="https://github.com/dhruvbajaj13/Splitr"
+                href="https://github.com/saran772/splitr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-600"
@@ -288,7 +288,7 @@ export default function AboutPage() {
                 />
               </a>
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=d4bajaj@gmail.com"
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=saranpreetsinghsabharwal@gmail.com"
                 className="hover:text-gray-400"
                 target="_blank"
                 rel="noopener noreferrer"
