@@ -91,6 +91,15 @@ We love contributions from the community! Whether it's a bug report, a new featu
 2.  **Make your changes** and ensure everything is working as expected.
 3.  **Submit a pull request** with a clear description of your changes.
 
+### 👨‍💻 Maintainer
+
+**Saranpreet Singh**
+
+* GitHub: https://github.com/saran772
+* LinkedIn: https://www.linkedin.com/in/saranpreet-singh-057a55291/
+* Email: [saranpreetsinghsabharwal@gmail.com](mailto:saranpreetsinghsabharwal@gmail.com)
+
+
 ## **📄 License**
 
 This project is licensed under the MIT License - see the [`License`](https://github.com/saran772/splitr/blob/main/LICENSE) file for details.
