@@ -82,7 +82,7 @@ It simplifies splitting bills between friends, tracking payments, and managing s
 
 * 💬 GitHub Discussions for ideas & queries
 * 📢 GSSoC Discord for community chats
-* 📧 Contact Dhruv Bajaj (Project Admin) at d4bajaj@gmail.com for urgent issues
+* 📧 Contact Saranpreet Singh (Project Admin) at saranpreetsinghsabharwal@gmail.com for urgent issues
 
 
 # 💡First PR Ideas
@@ -94,3 +94,9 @@ It simplifies splitting bills between friends, tracking payments, and managing s
 
 # 📜 Code of Conduct
 Please read our Code of Conduct before participating.
+
+# Maintainer
+
+Saranpreet Singh
+GitHub: https://github.com/saran772
+LinkedIn: https://www.linkedin.com/in/saranpreet-singh-057a55291/
