@@ -182,7 +182,7 @@ export default function LandingPage() {
             <h3 className="text-xl font-bold text-gray-800 dark:text-gray-100 mb-3 text-center sm:text-left">Follow Us</h3>
             <div className="flex space-x-6 text-xl justify-center sm:justify-start">
               <a
-                href="https://www.linkedin.com/in/dhruvbajaj13/"
+              href="https://www.linkedin.com/in/saranpreet-singh-057a55291/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-transform transform hover:scale-110 focus:scale-110"
@@ -194,7 +194,7 @@ export default function LandingPage() {
                 />
               </a>
               <a
-                href="https://github.com/dhruvbajaj13/Splitr"
+                href="https://github.com/saran772/splitr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-transform transform hover:scale-110 focus:scale-110"
@@ -206,7 +206,7 @@ export default function LandingPage() {
                 />
               </a>
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=d4bajaj@gmail.com"
+               href="https://mail.google.com/mail/?view=cm&fs=1&to=saranpreetsinghsabharwal@gmail.com"
                 className="transition-transform transform hover:scale-110 focus:scale-110"
                 target="_blank"
                 rel="noopener noreferrer"
